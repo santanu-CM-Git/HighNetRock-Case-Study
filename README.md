@@ -2,7 +2,6 @@
 ## Project Overview
 High Net Rock is a modern digital platform designed to showcase premium financial and investment-related services with a professional, trustworthy, and user-friendly experience. The website focuses on delivering clear communication, seamless navigation, and strong brand identity while maintaining high performance across all devices.
 
-**Live Website:** https://highnetrock.com/
 
 ---
 
@@ -93,4 +92,7 @@ The completed project provided the client with a polished, responsive, and high-
 # Conclusion
 
 High Net Rock was successfully transformed from a static design prototype into a fully functional and responsive website. The project emphasized clean UI development, responsive consistency, performance optimization, and modern frontend practices to deliver a premium user experience.
+
+
+**Live Website:** https://highnetrock.com/
 
